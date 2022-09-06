@@ -1,1 +1,1 @@
-print("HELLO WORLD!")
+print("HELLO WORLD!\nWELCOME TO PYTHON\nPython is powerful... and fast;\nplays well with others;\nruns everywhere;\nis friendly & easy to learn;\nis Open.\nPython is a programming language that lets you work more quickly and integrate your systems more effectively.")
