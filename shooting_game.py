@@ -4,7 +4,7 @@ import random
 
 
 WIDTH = 600
-HEIGHT = 800
+HEIGHT = 600
 MAX_BULLETS = 3
 
 level = 1
@@ -62,28 +62,7 @@ def update(delta):
     create_bombs()
     move_bombs()
     check_for_end_of_level()
-'''
-def move_player():
-    pass
 
-def move_enemies():
-    pass
-
-def move_bullets():
-    pass
-
-def create_bombs():
-    pass
-
-def move_bombs():
-    pass
-
-def check_for_end_of_level():
-    pass
-
-def draw_text():
-    pass
-'''
 
 def create_enemies():
     for x in range(0, 600, 60):

@@ -14,6 +14,7 @@ print("The sum is", sum)
 # To take input from the user,
 # n = int(input("Enter n: "))
 
+
 n = 10
 sum = 0
 i = 1

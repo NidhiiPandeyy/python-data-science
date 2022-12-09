@@ -4,7 +4,7 @@ from random import randint
 HEIGHT = 500
 WIDTH = 600
 
-#music.play('bgm')
+music.play('bgm')
 
 p = Actor('ironman', (100,100))
 c = Actor('cookie')
